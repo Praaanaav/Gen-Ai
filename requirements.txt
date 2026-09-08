@@ -5,3 +5,7 @@ langchain-groq
 streamlit
 langchain_ollama
 langchain_openai
+langchain-community
+google-search-results
+
+langgraph
