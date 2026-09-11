@@ -10,3 +10,7 @@ google-search-results
 
 langgraph
 
+# RAG
+pypdf
+beautifulsoup4
+wikipedia
