@@ -18,3 +18,5 @@ langchain-text-splitters
 
 # vector Store
 langchain-chroma
+
+pydantic
